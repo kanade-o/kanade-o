@@ -5,7 +5,7 @@
 </p>
 
 ## Hi there 👋
-I'm a CS student and Software Engineer!
+I'm a CS student who aim to be a software engineer!!
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanade-o&theme=gruvbox)

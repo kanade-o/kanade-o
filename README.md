@@ -4,8 +4,9 @@
   </a>
 </p>
 
-## Hi there 👋
-I'm a CS student who aim to be a software engineer!!
+## Hi 
+I'm a CS student. 
+I just want to alive. 
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanade-o&theme=gruvbox)

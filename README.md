@@ -21,7 +21,8 @@ I just want to alive.
   <tr>
     <td>
       <img src="https://img.shields.io/badge/-macOS-EEE.svg?logo=apple&logoColor=black&style=flat"><br>
-      <img src="https://img.shields.io/badge/-Linux-EEE.svg?logo=linux&logoColor=black&style=flat">
+      <img src="https://img.shields.io/badge/-Linux-EEE.svg?logo=linux&logoColor=black&style=flat"><br>
+      <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A.svg?logo=raspberrypi&logoColor=white&style=flat">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&logoColor=white&style=flat"><br>
@@ -33,7 +34,8 @@ I just want to alive.
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=flat"><br>
       <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white&style=flat"><br>
       <img src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&logoColor=white&style=flat"><br>
-      <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white&style=flat">
+      <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white&style=flat"><br>
+      <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&logoColor=white&style=flat">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&logoColor=white&style=flat"><br>

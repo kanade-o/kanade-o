@@ -15,6 +15,7 @@ I just want to alive.
     <td><b>OS</b></td>
     <td><b>Editor</b></td>
     <td><b>Language</b></td>
+    <td><b>Framework</b></td>
   </tr>
   <!-- ボディ -->
   <tr>
@@ -33,6 +34,11 @@ I just want to alive.
       <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white&style=flat"><br>
       <img src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&logoColor=white&style=flat"><br>
       <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white&style=flat">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&logoColor=white&style=flat"><br>
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&logoColor=white&style=flat"><br>
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=flat">
     </td>
   </tr>
 </table>
